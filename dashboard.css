@@ -1,0 +1,15 @@
+li {
+    display: inline;
+    color: rgb(255, 252, 252);
+}
+
+.container {
+    width: 100px;
+    margin: 100px auto;
+    height: auto;
+    border-radius: 20px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 18px;
+}
